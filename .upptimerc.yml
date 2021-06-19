@@ -17,7 +17,7 @@ status-website:
   theme: dark
   navbar:
     - title: Status
-      href: /
+      href: /chronwire-upptime
     - title: Chronwire
       href: https://chronwire.com
     - title: GitHub
