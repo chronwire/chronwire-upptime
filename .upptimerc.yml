@@ -14,11 +14,17 @@ status-website:
   baseUrl: /chronewire-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Chronwire Upptime
+  theme: dark
   navbar:
     - title: Status
       href: /
+    - title: Chronwire
+      href: https://chronwire.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+assignees:
+  - bluenote10
+  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
