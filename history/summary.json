@@ -4,11 +4,11 @@
     "url": "https://chronwire.com",
     "icon": "https://favicons.githubusercontent.com/chronwire.com",
     "slug": "chronwire",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 214,
     "timeDay": 222,
@@ -16,6 +16,7 @@
     "timeMonth": 219,
     "timeYear": 214,
     "dailyMinutesDown": {
+      "2021-07-28": 1,
       "2021-07-04": 15
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://chronwire.com/api/v1/tags/top?search=\"\"",
     "icon": "https://favicons.githubusercontent.com/chronwire.com",
     "slug": "chronwire-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
@@ -36,6 +37,7 @@
     "timeMonth": 46,
     "timeYear": 46,
     "dailyMinutesDown": {
+      "2021-07-28": 0,
       "2021-07-04": 15
     }
   }
