@@ -4,19 +4,19 @@
     "url": "https://chronwire.com",
     "icon": "https://icons.duckduckgo.com/ip3/chronwire.com.ico",
     "slug": "chronwire",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 75,
-    "timeWeek": 181,
-    "timeMonth": 154,
+    "timeDay": 106,
+    "timeWeek": 176,
+    "timeMonth": 153,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2024-01-10": 1
+      "2024-01-10": 12
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://chronwire.com/api/v1/tags/top?search=\"\"",
     "icon": "https://icons.duckduckgo.com/ip3/chronwire.com.ico",
     "slug": "chronwire-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 48,
     "timeDay": 26,
-    "timeWeek": 47,
-    "timeMonth": 44,
+    "timeWeek": 45,
+    "timeMonth": 43,
     "timeYear": 50,
     "dailyMinutesDown": {
-      "2024-01-10": 0
+      "2024-01-10": 11
     }
   }
 ]
