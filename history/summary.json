@@ -6,18 +6,16 @@
     "slug": "chronwire",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 106,
-    "timeWeek": 176,
-    "timeMonth": 153,
+    "timeDay": 131,
+    "timeWeek": 173,
+    "timeMonth": 149,
     "timeYear": 172,
-    "dailyMinutesDown": {
-      "2024-01-10": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "chronwire (API)",
@@ -26,17 +24,15 @@
     "slug": "chronwire-api",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 48,
-    "timeDay": 26,
-    "timeWeek": 45,
-    "timeMonth": 43,
+    "timeDay": 33,
+    "timeWeek": 46,
+    "timeMonth": 42,
     "timeYear": 50,
-    "dailyMinutesDown": {
-      "2024-01-10": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
