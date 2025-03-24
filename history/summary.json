@@ -4,9 +4,9 @@
     "url": "https://chronwire.com",
     "icon": "https://icons.duckduckgo.com/ip3/chronwire.com.ico",
     "slug": "chronwire",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 121,
     "timeMonth": 179,
     "timeYear": 193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-24": 0
+    }
   },
   {
     "name": "chronwire (API)",
     "url": "https://chronwire.com/api/v1/tags/top?search=\"\"",
     "icon": "https://icons.duckduckgo.com/ip3/chronwire.com.ico",
     "slug": "chronwire-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 26,
     "timeMonth": 45,
     "timeYear": 44,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-24": 0
+    }
   }
 ]
